@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 7b966bcdaced04141b62508c9ac55c94
+timeCreated: 1493149355
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna_L1
+    100002: Antenna_L2
+    100004: Antenna_R1
+    100006: Antenna_R2
+    100008: //RootNode
+    100010: Center_Rotator_Bone
+    100012: Core_bone
+    100014: Main_Fin_L1
+    100016: Main_Fin_L2
+    100018: Main_Fin_R2
+    100020: Main_FinR1
+    100022: Pype_L1
+    100024: Pype_L2
+    100026: Pype_R1
+    100028: Pype_R2
+    100030: Small_Fin_L1
+    100032: Small_Fin_L2
+    100034: Small_Fin_R1
+    100036: SmallR2
+    100038: Spine_1
+    100040: Spine_2
+    100042: Spine_3
+    100044: Spine_4
+    100046: Spine_5
+    100048: Spine_6
+    100050: T1
+    100052: T2
+    100054: T3
+    100056: T4
+    100058: T5
+    100060: T6
+    100062: T7
+    100064: TFL2
+    100066: TFL_1
+    100068: TFR1
+    100070: TFR2
+    100072: Whale_Animated
+    400000: Antenna_L1
+    400002: Antenna_L2
+    400004: Antenna_R1
+    400006: Antenna_R2
+    400008: //RootNode
+    400010: Center_Rotator_Bone
+    400012: Core_bone
+    400014: Main_Fin_L1
+    400016: Main_Fin_L2
+    400018: Main_Fin_R2
+    400020: Main_FinR1
+    400022: Pype_L1
+    400024: Pype_L2
+    400026: Pype_R1
+    400028: Pype_R2
+    400030: Small_Fin_L1
+    400032: Small_Fin_L2
+    400034: Small_Fin_R1
+    400036: SmallR2
+    400038: Spine_1
+    400040: Spine_2
+    400042: Spine_3
+    400044: Spine_4
+    400046: Spine_5
+    400048: Spine_6
+    400050: T1
+    400052: T2
+    400054: T3
+    400056: T4
+    400058: T5
+    400060: T6
+    400062: T7
+    400064: TFL2
+    400066: TFL_1
+    400068: TFR1
+    400070: TFR2
+    400072: Whale_Animated
+    4300000: Whale_Animated
+    7400000: Swimming
+    7400002: 3dsMax publisher
+    9500000: //RootNode
+    13700000: Whale_Animated
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swimming
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Core_bone
+        weight: 1
+      - path: Core_bone/Center_Rotator_Bone
+        weight: 1
+      - path: Core_bone/Main_Fin_L1
+        weight: 1
+      - path: Core_bone/Main_Fin_L1/Main_Fin_L2
+        weight: 1
+      - path: Core_bone/Main_FinR1
+        weight: 1
+      - path: Core_bone/Main_FinR1/Main_Fin_R2
+        weight: 1
+      - path: Core_bone/Pype_L1
+        weight: 1
+      - path: Core_bone/Pype_L2
+        weight: 1
+      - path: Core_bone/Pype_R1
+        weight: 1
+      - path: Core_bone/Pype_R2
+        weight: 1
+      - path: Core_bone/Spine_1
+        weight: 1
+      - path: Core_bone/Spine_1/Small_Fin_L1
+        weight: 1
+      - path: Core_bone/Spine_1/Small_Fin_L1/Small_Fin_L2
+        weight: 1
+      - path: Core_bone/Spine_1/Small_Fin_R1
+        weight: 1
+      - path: Core_bone/Spine_1/Small_Fin_R1/SmallR2
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Antenna_L1
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Antenna_L2
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Antenna_R1
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Antenna_R2
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Spine_6
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Spine_6/TFL_1
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Spine_6/TFL_1/TFL2
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Spine_6/TFR1
+        weight: 1
+      - path: Core_bone/Spine_1/Spine_2/Spine_3/Spine_4/Spine_5/Spine_6/TFR1/TFR2
+        weight: 1
+      - path: Core_bone/T1
+        weight: 1
+      - path: Core_bone/T2
+        weight: 1
+      - path: Core_bone/T3
+        weight: 1
+      - path: Core_bone/T4
+        weight: 1
+      - path: Core_bone/T5
+        weight: 1
+      - path: Core_bone/T6
+        weight: 1
+      - path: Core_bone/T7
+        weight: 1
+      - path: Whale_Animated
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
