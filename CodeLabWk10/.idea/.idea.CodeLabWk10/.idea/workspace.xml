@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f384b3-724f-4773-a36c-87b22c1f0b4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,31 +11,49 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/FindPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+            <state relative-caret-position="179">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
-                <marker date="1556472119626" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556472119626" expanded="true" signature="119:1573" ph="{...}" />
-                <marker date="1556472119626" expanded="true" signature="270:487" ph="{...}" />
-                <marker date="1556472119626" expanded="true" signature="545:1571" ph="{...}" />
-                <marker date="1556472119626" expanded="true" signature="1319:1492" ph="{...}" />
-                <marker date="1556472119626" expanded="true" signature="1505:1565" ph="{...}" />
+                <marker date="1556475868932" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556475868932" expanded="true" signature="119:1580" ph="{...}" />
+                <marker date="1556475868932" expanded="true" signature="277:494" ph="{...}" />
+                <marker date="1556475868932" expanded="true" signature="552:1578" ph="{...}" />
+                <marker date="1556475868932" expanded="true" signature="1326:1499" ph="{...}" />
+                <marker date="1556475868932" expanded="true" signature="1512:1572" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/WhaleOrbit.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <marker date="1556476974596" expanded="false" signature="6:44" ph="..." />
+                <marker date="1556476974596" expanded="true" signature="87:995" ph="{...}" />
+                <marker date="1556476974596" expanded="true" signature="340:470" ph="{...}" />
+                <marker date="1556476974596" expanded="true" signature="375:464" ph="{...}" />
+                <marker date="1556476974596" expanded="true" signature="493:923" ph="{...}" />
+                <marker date="1556476974596" expanded="true" signature="526:917" ph="{...}" />
+                <marker date="1556476974596" expanded="true" signature="953:993" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/OrbitShip.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding>
-                <marker date="1556473549558" expanded="true" signature="6:44" ph="..." />
+                <marker date="1556473549558" expanded="false" signature="6:44" ph="..." />
                 <marker date="1556473549558" expanded="true" signature="86:990" ph="{...}" />
                 <marker date="1556473549558" expanded="true" signature="340:470" ph="{...}" />
                 <marker date="1556473549558" expanded="true" signature="375:464" ph="{...}" />
@@ -64,17 +73,20 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/OrbitShip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FindPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WhaleOrbit.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/OrbitShip.cs" />
+        <option value="$PROJECT_DIR$/Assets/FindPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/WhaleOrbit.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-109" />
-    <option name="y" value="32" />
+    <option name="x" value="151" />
+    <option name="y" value="94" />
     <option name="width" value="1847" />
     <option name="height" value="1034" />
   </component>
@@ -84,15 +96,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,12 +150,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556472083336</updated>
-      <workItem from="1556472086497" duration="1744000" />
+      <workItem from="1556472086497" duration="2019000" />
+      <workItem from="1556475636267" duration="1467000" />
     </task>
+    <task id="LOCAL-00001" summary="Rotating drone above player ship, shooting bullet particles in alldirections at rate of 180 degrees per second">
+      <created>1556474019670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556474019670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1744000" />
+    <option name="totallyTimeSpent" value="3486000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -155,22 +176,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-109" y="32" width="1847" height="1034" extended-state="0" />
+    <frame x="151" y="94" width="1847" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25263157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -178,12 +191,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +212,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rotating drone above player ship, shooting bullet particles in alldirections at rate of 180 degrees per second" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rotating drone above player ship, shooting bullet particles in alldirections at rate of 180 degrees per second" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -204,31 +229,47 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/FindPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        <state relative-caret-position="179">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
-            <marker date="1556472119626" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556472119626" expanded="true" signature="119:1573" ph="{...}" />
-            <marker date="1556472119626" expanded="true" signature="270:487" ph="{...}" />
-            <marker date="1556472119626" expanded="true" signature="545:1571" ph="{...}" />
-            <marker date="1556472119626" expanded="true" signature="1319:1492" ph="{...}" />
-            <marker date="1556472119626" expanded="true" signature="1505:1565" ph="{...}" />
+            <marker date="1556475868932" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556475868932" expanded="true" signature="119:1580" ph="{...}" />
+            <marker date="1556475868932" expanded="true" signature="277:494" ph="{...}" />
+            <marker date="1556475868932" expanded="true" signature="552:1578" ph="{...}" />
+            <marker date="1556475868932" expanded="true" signature="1326:1499" ph="{...}" />
+            <marker date="1556475868932" expanded="true" signature="1512:1572" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/OrbitShip.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="30">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
-            <marker date="1556473549558" expanded="true" signature="6:44" ph="..." />
+            <marker date="1556473549558" expanded="false" signature="6:44" ph="..." />
             <marker date="1556473549558" expanded="true" signature="86:990" ph="{...}" />
             <marker date="1556473549558" expanded="true" signature="340:470" ph="{...}" />
             <marker date="1556473549558" expanded="true" signature="375:464" ph="{...}" />
             <marker date="1556473549558" expanded="true" signature="493:918" ph="{...}" />
             <marker date="1556473549558" expanded="true" signature="526:912" ph="{...}" />
             <marker date="1556473549558" expanded="true" signature="948:988" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WhaleOrbit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1556476974596" expanded="false" signature="6:44" ph="..." />
+            <marker date="1556476974596" expanded="true" signature="87:995" ph="{...}" />
+            <marker date="1556476974596" expanded="true" signature="340:470" ph="{...}" />
+            <marker date="1556476974596" expanded="true" signature="375:464" ph="{...}" />
+            <marker date="1556476974596" expanded="true" signature="493:923" ph="{...}" />
+            <marker date="1556476974596" expanded="true" signature="526:917" ph="{...}" />
+            <marker date="1556476974596" expanded="true" signature="953:993" ph="{...}" />
           </folding>
         </state>
       </provider>
