@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58f384b3-724f-4773-a36c-87b22c1f0b4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="58f384b3-724f-4773-a36c-87b22c1f0b4c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/FindPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+            <state relative-caret-position="585">
+              <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
               <folding>
                 <marker date="1556482843355" expanded="false" signature="6:78" ph="..." />
                 <marker date="1556482843355" expanded="true" signature="119:1306" ph="{...}" />
@@ -75,6 +73,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageNormals.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/FindPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/CrossProduct.cs" root0="FORCE_HIGHLIGHTING" />
@@ -92,8 +91,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="86" />
-    <option name="y" value="5" />
+    <option name="x" value="65" />
     <option name="width" value="1847" />
     <option name="height" value="1034" />
   </component>
@@ -160,7 +158,7 @@
       <workItem from="1556472086497" duration="2019000" />
       <workItem from="1556475636267" duration="2816000" />
       <workItem from="1556478848157" duration="116000" />
-      <workItem from="1556478975973" duration="2178000" />
+      <workItem from="1556478975973" duration="2385000" />
     </task>
     <task id="LOCAL-00001" summary="Rotating drone above player ship, shooting bullet particles in alldirections at rate of 180 degrees per second">
       <created>1556474019670</created>
@@ -204,11 +202,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556482857763</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added findplayer script to multiple objects as shown in codelab class, but coudlnt get the cube/sphere combo ti follow player ship,. however, the console prints out the dot product, so it it tacking the tagged &quot;Player&quot;.">
+      <created>1556482981507</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556482981507</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added findplayer script to multiple objects as shown in codelab class, but coudlnt get the cube/sphere combo ti follow player ship,. however, the console prints out the dot product, so it it tacking the tagged &quot;Player&quot;.">
+      <created>1556483037471</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556483037471</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7129000" />
+    <option name="totallyTimeSpent" value="7336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -220,10 +232,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="86" y="5" width="1847" height="1034" extended-state="0" />
-    <editor active="true" />
+    <frame x="65" y="0" width="1847" height="1034" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25817174" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25817174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -237,12 +248,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32908705" />
       <window_info anchor="bottom" id="Unity" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="14" side_tool="true" visible="true" weight="0.32908705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -341,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/FindPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        <state relative-caret-position="585">
+          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
           <folding>
             <marker date="1556482843355" expanded="false" signature="6:78" ph="..." />
             <marker date="1556482843355" expanded="true" signature="119:1306" ph="{...}" />
