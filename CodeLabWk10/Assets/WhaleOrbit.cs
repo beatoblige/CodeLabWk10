@@ -23,7 +23,7 @@ public class WhaleOrbit : MonoBehaviour {
         {
             // Drone should be above ship's last position and rotating at a constant speed w/ particle bullet in every direction 
             transform.position = target.position + relativeDistance;
-            transform.RotateAround(Vector3.forward, target.position, orbitDegreesPS * Time.deltaTime);
+            transform.RotateAround(target.position, Vector3.down, orbitDegreesPS * Time.deltaTime);
             relativeDistance = transform.position - target.position;
         }
     }
