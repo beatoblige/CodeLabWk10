@@ -4,8 +4,7 @@
     <list default="true" id="58f384b3-724f-4773-a36c-87b22c1f0b4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/Scenes/Scene1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/Terrains/New Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/Terrains/New Terrain.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WhaleOrbit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WhaleOrbit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/FindPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="165">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <marker date="1556475868932" expanded="false" signature="6:78" ph="..." />
                 <marker date="1556475868932" expanded="true" signature="119:1580" ph="{...}" />
@@ -32,10 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/WhaleOrbit.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="45">
               <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding>
                 <marker date="1556477699299" expanded="false" signature="6:44" ph="..." />
@@ -51,12 +50,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/CrossProduct.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <marker date="1556479044853" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556479044853" expanded="true" signature="121:867" ph="{...}" />
+                <marker date="1556479044853" expanded="true" signature="227:248" ph="{...}" />
+                <marker date="1556479044853" expanded="true" signature="306:865" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="91" column="40" lean-forward="true" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
+              <folding>
+                <marker date="1555681674000" expanded="false" signature="6:138" ph="..." />
+                <marker date="1555681674000" expanded="true" signature="213:2808" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="837:992" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="871:986" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="1056:1100" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="1137:1556" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="1596:2288" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="2314:2494" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="2377:2425" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="2438:2488" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="2527:2633" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="2574:2627" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="2668:2806" ph="{...}" />
+                <marker date="1555681674000" expanded="true" signature="2715:2769" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/OrbitCamera.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding>
-                <marker date="1556477156893" expanded="true" signature="6:44" ph="..." />
+                <marker date="1556477156893" expanded="false" signature="6:44" ph="..." />
                 <marker date="1556477156893" expanded="true" signature="88:458" ph="{...}" />
                 <marker date="1556477156893" expanded="true" signature="184:198" ph="{...}" />
                 <marker date="1556477156893" expanded="true" signature="219:452" ph="{...}" />
@@ -68,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/OrbitShip.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="30">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding>
                 <marker date="1556473549558" expanded="false" signature="6:44" ph="..." />
@@ -91,7 +130,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/OrbitShip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/OrbitCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FindPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/CrossProduct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WhaleOrbit.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -101,11 +142,12 @@
         <option value="$PROJECT_DIR$/Assets/FindPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/OrbitCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/WhaleOrbit.cs" />
+        <option value="$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/CrossProduct.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-140" />
+    <option name="y" value="116" />
     <option name="width" value="1847" />
     <option name="height" value="1034" />
   </component>
@@ -115,13 +157,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -170,7 +212,9 @@
       <option name="presentableId" value="Default" />
       <updated>1556472083336</updated>
       <workItem from="1556472086497" duration="2019000" />
-      <workItem from="1556475636267" duration="2552000" />
+      <workItem from="1556475636267" duration="2816000" />
+      <workItem from="1556478848157" duration="116000" />
+      <workItem from="1556478975973" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="Rotating drone above player ship, shooting bullet particles in alldirections at rate of 180 degrees per second">
       <created>1556474019670</created>
@@ -193,11 +237,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556477421938</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Different whale orbit">
+      <created>1556478254698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556478254698</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4571000" />
+    <option name="totallyTimeSpent" value="5497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,10 +260,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-140" y="0" width="1847" height="1034" extended-state="0" />
+    <frame x="0" y="116" width="1847" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25263157" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25817174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -248,7 +299,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rotating drone above player ship, shooting bullet particles in alldirections at rate of 180 degrees per second" />
     <MESSAGE value="Biomechanical whale now orbiting the player as well, this is a working model of a more elaborate version of this for a final project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Biomechanical whale now orbiting the player as well, this is a working model of a more elaborate version of this for a final project" />
+    <MESSAGE value="Different whale orbit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Different whale orbit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -263,8 +315,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/FindPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="165">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
             <marker date="1556475868932" expanded="false" signature="6:78" ph="..." />
             <marker date="1556475868932" expanded="true" signature="119:1580" ph="{...}" />
@@ -278,10 +330,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/OrbitCamera.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <marker date="1556477156893" expanded="true" signature="6:44" ph="..." />
+            <marker date="1556477156893" expanded="false" signature="6:44" ph="..." />
             <marker date="1556477156893" expanded="true" signature="88:458" ph="{...}" />
             <marker date="1556477156893" expanded="true" signature="184:198" ph="{...}" />
             <marker date="1556477156893" expanded="true" signature="219:452" ph="{...}" />
@@ -291,7 +343,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/OrbitShip.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="30">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
             <marker date="1556473549558" expanded="false" signature="6:44" ph="..." />
@@ -307,7 +359,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/WhaleOrbit.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="45">
           <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding>
             <marker date="1556477699299" expanded="false" signature="6:44" ph="..." />
@@ -317,6 +369,42 @@
             <marker date="1556477699299" expanded="true" signature="493:920" ph="{...}" />
             <marker date="1556477699299" expanded="true" signature="526:914" ph="{...}" />
             <marker date="1556477699299" expanded="true" signature="950:990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/CrossProduct.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1556479044853" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556479044853" expanded="true" signature="121:867" ph="{...}" />
+            <marker date="1556479044853" expanded="true" signature="227:248" ph="{...}" />
+            <marker date="1556479044853" expanded="true" signature="306:865" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="91" column="40" lean-forward="true" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
+          <folding>
+            <marker date="1555681674000" expanded="false" signature="6:138" ph="..." />
+            <marker date="1555681674000" expanded="true" signature="213:2808" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="837:992" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="871:986" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="1056:1100" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="1137:1556" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="1596:2288" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="2314:2494" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="2377:2425" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="2438:2488" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="2527:2633" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="2574:2627" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="2668:2806" ph="{...}" />
+            <marker date="1555681674000" expanded="true" signature="2715:2769" ph="{...}" />
           </folding>
         </state>
       </provider>
