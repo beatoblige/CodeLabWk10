@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58f384b3-724f-4773-a36c-87b22c1f0b4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLabWk10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FindPlayer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FindPlayer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/Scenes/Scene1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OrbitCamera.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OrbitCamera.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WhaleOrbit.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WhaleOrbit.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,15 +15,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/FindPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="570">
+              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
               <folding>
-                <marker date="1556482638242" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556482638242" expanded="true" signature="119:1342" ph="{...}" />
-                <marker date="1556482638242" expanded="true" signature="270:449" ph="{...}" />
-                <marker date="1556482638242" expanded="true" signature="507:1340" ph="{...}" />
-                <marker date="1556482638242" expanded="true" signature="1088:1261" ph="{...}" />
-                <marker date="1556482638242" expanded="true" signature="1274:1334" ph="{...}" />
+                <marker date="1556482843355" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556482843355" expanded="true" signature="119:1306" ph="{...}" />
+                <marker date="1556482843355" expanded="true" signature="270:449" ph="{...}" />
+                <marker date="1556482843355" expanded="true" signature="507:1304" ph="{...}" />
+                <marker date="1556482843355" expanded="true" signature="1052:1225" ph="{...}" />
+                <marker date="1556482843355" expanded="true" signature="1238:1298" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -167,7 +160,7 @@
       <workItem from="1556472086497" duration="2019000" />
       <workItem from="1556475636267" duration="2816000" />
       <workItem from="1556478848157" duration="116000" />
-      <workItem from="1556478975973" duration="1865000" />
+      <workItem from="1556478975973" duration="2178000" />
     </task>
     <task id="LOCAL-00001" summary="Rotating drone above player ship, shooting bullet particles in alldirections at rate of 180 degrees per second">
       <created>1556474019670</created>
@@ -204,11 +197,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556479615483</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CrossProduct implemented on faux landing pad, tacking movement of rotating drone on top of player ship">
+      <created>1556482857763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556482857763</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6816000" />
+    <option name="totallyTimeSpent" value="7129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -220,7 +220,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="184" y="142" width="1847" height="1034" extended-state="0" />
+    <frame x="86" y="5" width="1847" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25817174" />
@@ -261,7 +261,8 @@
     <MESSAGE value="Biomechanical whale now orbiting the player as well, this is a working model of a more elaborate version of this for a final project" />
     <MESSAGE value="Different whale orbit" />
     <MESSAGE value="CrossProduct implemented on faux landing pad, tacking movement of rotating drone on top of player ship" />
-    <option name="LAST_COMMIT_MESSAGE" value="CrossProduct implemented on faux landing pad, tacking movement of rotating drone on top of player ship" />
+    <MESSAGE value="Added findplayer script to multiple objects as shown in codelab class, but coudlnt get the cube/sphere combo ti follow player ship,. however, the console prints out the dot product, so it it tacking the tagged &quot;Player&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added findplayer script to multiple objects as shown in codelab class, but coudlnt get the cube/sphere combo ti follow player ship,. however, the console prints out the dot product, so it it tacking the tagged &quot;Player&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,15 +341,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/LandscapesRokhsar-master/Assets/RokhsarAssets/GameScripts/FindPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="41" />
+        <state relative-caret-position="570">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
           <folding>
-            <marker date="1556482638242" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556482638242" expanded="true" signature="119:1342" ph="{...}" />
-            <marker date="1556482638242" expanded="true" signature="270:449" ph="{...}" />
-            <marker date="1556482638242" expanded="true" signature="507:1340" ph="{...}" />
-            <marker date="1556482638242" expanded="true" signature="1088:1261" ph="{...}" />
-            <marker date="1556482638242" expanded="true" signature="1274:1334" ph="{...}" />
+            <marker date="1556482843355" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556482843355" expanded="true" signature="119:1306" ph="{...}" />
+            <marker date="1556482843355" expanded="true" signature="270:449" ph="{...}" />
+            <marker date="1556482843355" expanded="true" signature="507:1304" ph="{...}" />
+            <marker date="1556482843355" expanded="true" signature="1052:1225" ph="{...}" />
+            <marker date="1556482843355" expanded="true" signature="1238:1298" ph="{...}" />
           </folding>
         </state>
       </provider>
